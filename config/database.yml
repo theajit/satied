@@ -1,10 +1,10 @@
 development:
       host: localhost
       adapter: mysql
-      database: fedena_ultimate
+      database: fedena_test
       port: 3306
       username: root
-      password: foradian
+      password: ajit123
 
 test: &test
       host: localhost

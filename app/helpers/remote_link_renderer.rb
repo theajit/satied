@@ -27,3 +27,4 @@ protected
     @template.link_to_remote(text, {:url => url_for(page), :method => :post,:eval_scripts=>true}.merge(@remote), attributes)
   end
 end
+

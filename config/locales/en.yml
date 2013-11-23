@@ -347,7 +347,6 @@ en: # locale
 
     batch_transfers:
       errors_found: "Following errors were found"
-
   sl_no: "Sl  no."
   name: "Name"
   adm_no: "Adm no."
